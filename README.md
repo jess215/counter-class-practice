@@ -1,8 +1,8 @@
 # RE-CREATING COMPONENTS WITH CLASS INSTEAD OF HOOKS
-- Create Folders
+### Create Folders
     - 'class' folder
     - 'functional' folder
-- Create Files
+### Create Files
     - CounterA
     - CounterB
     - ListA
