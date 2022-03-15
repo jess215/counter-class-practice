@@ -1,5 +1,12 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from './logo.svg'
+import './App.css'
+import CounterA from './functional/CounterA'
+import CounterB from './class/CounterB'
+import ListA from './functional/ListA'
+import ListB from './class/ListB'
+import DragonFormA from './functional/DragonFormA'
+import DragonFormB from './class/DragonFormB'
+
 
 function App() {
   return (
